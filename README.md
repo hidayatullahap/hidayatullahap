@@ -1,10 +1,10 @@
 # Hidayatullah Agung Prasetyo
-I've been coding since 2015 and professionally since 2018. a bit of everything really; frontend, backend, you name it. In my free time I do game dev, mostly making Roblox games for fun and lately I've been super into LLMs and everything happening in AI.
+I've been coding since 2015 and professionally since 2018. A bit of everything really; frontend, backend, you name it. In my free time I do game dev, mostly making Roblox games for fun, and lately I've been super into LLMs and everything happening in AI.
 
 ### Toolbox
 ![Skills](https://skillicons.dev/icons?i=go,cs,lua,nodejs,typescript,javascript,php,postgres,mysql,mongodb,redis,elasticsearch,gcp,aws,docker,kubernetes,terraform&theme=light)
 
-### Github steak
+### GitHub streak
 ![GitHub streak](https://streak-stats.demolab.com/?user=hidayatullahap&theme=transparent&hide_border=true)
 
 ## 📫 Contact
