@@ -16,6 +16,8 @@ Coding since 2015 and working professionally as SWE since 2018. A bit of everyth
 🌐 **Website:** [kucing.dev](https://kucing.dev/)
 
 <br>
+<img src="https://tr.rbxcdn.com/180DAY-9d373c9daffc661152f744f9b0a0ee7c/768/432/Image/Webp/noFilter" width="600" />
+<br><br>
 
 <a href="https://www.roblox.com/games/83569270713248/Mount-Elora" target="_blank">
   <img src="https://tr.rbxcdn.com/180DAY-5f7af15d099154473a85cced91c0aba9/256/256/Image/Webp/noFilter" alt="Mount Elora Game Icon" width="256" style="border-radius: 12px; border: 1px solid #333;">
@@ -26,11 +28,7 @@ Coding since 2015 and working professionally as SWE since 2018. A bit of everyth
 </p>
 
 <a href="https://www.roblox.com/games/83569270713248/Mount-Elora" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Play_Now-Roblox-FF0000?style=for-the-badge&logo=roblox&logoColor=white" alt="Play Mount Elora on Roblox">
+  <img src="https://img.shields.io/badge/Play_Mount_Elora_On-Roblox-01c500?style=for-the-badge&logo=roblox&logoColor=white" alt="Play Mount Elora on Roblox">
 </a>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/byrotek-calm-meadow.jpg" alt="divider" width="600" />
 
 </div>
