@@ -1,5 +1,5 @@
 # Hidayatullah Agung Prasetyo
-I've been coding since 2015 and professionally since 2018. A bit of everything really; frontend, backend, you name it. In my free time I do game dev, mostly making Roblox games for fun, and lately I've been super into LLMs and everything happening in AI.
+Coding since 2015 and working professionally as SWE since 2018. A bit of everything, really: frontend, backend, you name it. In my free time I do game dev, mostly making Roblox games for fun, and lately I've been super into LLMs and everything happening in AI.
 
 ### Toolbox
 ![Skills](https://skillicons.dev/icons?i=go,cs,lua,nodejs,typescript,javascript,php,postgres,mysql,mongodb,redis,elasticsearch,gcp,aws,docker,kubernetes,terraform&theme=light)
