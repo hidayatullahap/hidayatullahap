@@ -22,11 +22,7 @@ Coding since 2015 and working professionally as SWE since 2018. A bit of everyth
 <a href="https://www.roblox.com/games/83569270713248/Mount-Elora" target="_blank">
   <img src="https://tr.rbxcdn.com/180DAY-5f7af15d099154473a85cced91c0aba9/256/256/Image/Webp/noFilter" alt="Mount Elora Game Icon" width="256" style="border-radius: 12px; border: 1px solid #333;">
 </a>
-
-<p style="margin: 10px 0 10px 0; font-size: 1.1em; color: #ddd; font-family: sans-serif;">
-  Play my chill game
-</p>
-
+<br>
 <a href="https://www.roblox.com/games/83569270713248/Mount-Elora" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Play_Mount_Elora_On-Roblox-01c500?style=for-the-badge&logo=roblox&logoColor=white" alt="Play Mount Elora on Roblox">
 </a>
